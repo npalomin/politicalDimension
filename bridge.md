@@ -21,7 +21,6 @@ elements to maintain this boundary, including the surveillance network termed th
 ***
 ##### Expanding this topic
 [The tale of London’s bridges marks the end of an era](https://www.ft.com/content/1362ec22-81ca-11e7-a4ce-15b2513cb3ff)
-
 [The world wants more 'porous' cities – so why don't we build them?](https://www.theguardian.com/cities/2015/nov/27/delhi-electronic-market-urbanist-dream)
 
 [morph]:https://i.imgsafe.org/9b/9b9b2db17c.jpeg
