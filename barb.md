@@ -1,32 +1,40 @@
-PLACE ONE
-##### Millenium Bridge
-# Borders and Boundaries
-![alt text][morph]
+PLACE FOUR
+##### Barbican
+# Elevated City
+![alt text][housing]
 
 ##### Keywords 
-*connectivity, interaction, surveillance, world city vision*
+*exclusion, regulated space, surveillance, gated communities*
 ***
 
-> Almost 2000 years ago, what is now the City of London had a Roman city wall that defined its perimeter. 
-Even though the wall has come down, the City still deploys a spectrum of physical, symbolic and virtual
-elements to maintain this boundary, including the surveillance network termed the ‘Ring of Steel’
+> '...pedestrian highwalks
+[...] aimed to facilitate public
+life separated from street-level traffic', were 'envisioned as an
+elevated network disseminated throughout
+the City, the plan was never realised and the
+pedways for the most part were not built
+beyond the Barbican boundaries. As a
+result, the pedways expose pedestrians to
+bleak, disorienting landscapes that isolate
+Barbican residents and visitors, rather than
+inviting new flows of interaction, hybridity
+and intensity.'
 (Trangos et al., 2014)
 
-![alt text][wall]
+![alt text][pedways]
 
-> The boundary is an edge where things end; the border is an edge where different groups interact [...] territories consist 
-[...] of boundaries and borders – in cities, most simply, there is a contrast between gated communities and complex, open streets
-(Sennett, 2006)
+> 'The political economy of a city is not confined, after all, to questions of who owns what, but how this spatial economy is regulated in terms of access, exclusion and control [...] The privatizing logic that has colonized this city, he argues, means that really accessible public spaces have been steadily degraded and destroyed, while 'pseudo-public spaces - sumptuary malls, office centers, cultural acropolises and so on - are full of invisible signs warning off the underclass "Other"'
+(Tonkiss, 2005)
 
 ***
 ##### Expanding this topic
-[The tale of London’s bridges marks the end of an era](https://www.ft.com/content/1362ec22-81ca-11e7-a4ce-15b2513cb3ff)
-[The world wants more 'porous' cities – so why don't we build them?](https://www.theguardian.com/cities/2015/nov/27/delhi-electronic-market-urbanist-dream)
+[These squares are our squares: be angry about the privatisation of public space](https://www.theguardian.com/cities/2017/jul/25/squares-angry-privatisation-public-space)
+[...housing estates helped rebuild the post-war capital – but have they stood the test of time?](http://www.dailymail.co.uk/news/article-4447906/London-s-skyline-Tower-blocks-estates.html)
 
-[morph]:https://i.imgsafe.org/9b/9b9b2db17c.jpeg
-[wall]:https://i.imgsafe.org/9b/9b9b2d964b.jpeg
+[pedways]:https://dl.dropboxusercontent.com/s/fs8q61tng6meqe5/f-pedways.jpg?dl=0
+[housing]:https://dl.dropboxusercontent.com/s/fifdaulcg5u6ufd/f-housing.jpg?dl=0
 
 ##### References:
 
-- Sennett, R. (2006). The open city. In Berlin: Towards an Urban Age. Berlin.
+- Tonkiss, F. (2005). Space, the city and social theory: social relations and urban forms. Cambridge ; Malden, MA: Polity.
 - Trangos, G., Adleson, I., Palominos, N., Valdez Young, A., & Alshalfan, S. (2014). Reordered publics: Re-imagining the City of London. City, 18(2), 191–213. 
