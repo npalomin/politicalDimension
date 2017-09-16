@@ -32,6 +32,7 @@ and political working groups'
 ***
 ##### Expanding this topic
 [Keep on marching. Most protests do work … eventually](https://www.theguardian.com/commentisfree/2017/apr/10/protesting-cnd-iraq-opinion)
+
 [How private ‘public’ space in cities shuts out protest](https://www.ft.com/content/45cd3dbe-34dd-11e7-99bd-13beb0903fa3)
 
 [tools]:https://dl.dropboxusercontent.com/s/c8ejg8q86p9psfn/f-tools.jpg?dl=0
