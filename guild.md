@@ -25,7 +25,7 @@ PLACE THREE
 
 [How to make the City of London more diverse](https://www.ft.com/content/1b25ed3e-33d1-11e7-bce4-9023f8c0fd2e)
 
-[ward]:https://dl.dropboxusercontent.com/s/et9lelqh8ihajmc/t-4wards.jpg?dl=0
+[wards]:https://dl.dropboxusercontent.com/s/et9lelqh8ihajmc/t-4wards.jpg?dl=0
 [vote]:https://dl.dropboxusercontent.com/s/rmrwex3dtlxnmpw/t-vote.jpg?dl=0
 
 ##### References:
