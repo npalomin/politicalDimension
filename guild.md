@@ -4,7 +4,7 @@ PLACE THREE
 ![alt text][wards]
 
 ##### Keywords 
-*connectivity, interaction, surveillance, world city vision*
+*collective interests, democracy, status symbols*
 ***
 
 > 'The City voting structure as it currently exists. Business votes currently outnumber residential votes by 75%. Proportional voting based on employee numbers means that business management chooses which staff vote for them. Only members of livery companies, of which 50% still do not accept female membership can, be eligible for and, vote in the Lord Mayor and Sheriffs of the City.'(Trangos et al., 2014)
